@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324429311604",
+    "firebase_url": "https://temp-auth-9a9a7-default-rtdb.firebaseio.com",
+    "project_id": "temp-auth-9a9a7",
+    "storage_bucket": "temp-auth-9a9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324429311604:android:3fd2cd54015f11a8b6ab21",
+        "android_client_info": {
+          "package_name": "com.example.tempauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324429311604-9vhf0i97p2e96c7biumlmknudinkccm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZxgsBKOzcC8OZZYFb840Jfzry2djal0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324429311604-9vhf0i97p2e96c7biumlmknudinkccm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
