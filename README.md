@@ -1,4 +1,4 @@
-# Picauth
+# PicAuth
 Used image (more user relatable token) for secret key generation in the process of 2-factor authentication setup.  
 User need to provide an image during the 2FA setup phase which will then be passed to an algorithm for key generation.  
 Created an algorithm for input images with some additional parameters to check if the image is strong enough for secure key generation.  
